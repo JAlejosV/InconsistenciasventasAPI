@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inconsistenciasventaspsamAPI", "inconsistenciasventaspsamAPI\inconsistenciasventaspsamAPI.csproj", "{281457AB-2E3D-4512-A2D2-0F679A469326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281457AB-2E3D-4512-A2D2-0F679A469326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281457AB-2E3D-4512-A2D2-0F679A469326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281457AB-2E3D-4512-A2D2-0F679A469326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281457AB-2E3D-4512-A2D2-0F679A469326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1246673-EFB6-48DB-BF08-958D4F8923D7}
+	EndGlobalSection
+EndGlobal
